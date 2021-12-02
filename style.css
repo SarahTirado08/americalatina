@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+nav{color: aqua;}
+h1{ color: black;}
+nav a,ul,li{
+    text-decoration: none; 
+    list-style-type:none;
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+a{text-decoration: none;
+color: white;
+}
+nav     {background-color: black;
+height: 50px;}
